@@ -1,0 +1,2 @@
+rootProject.name='ynms'
+include ':app'
